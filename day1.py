@@ -1,0 +1,45 @@
+
+print("Day 1 - python print function")
+print("the function is declared like this:")
+print("print('what to print')")    #use single and double quotes to remove confusion
+
+print("Hello world!\nHello World!")    # put a new line, use \n
+
+print("Hello " + "Angela")     # to concatenate two strings, use "+"
+
+#Debug exercise
+print("Day 1 - String Manupulation")
+print("String concatenation is done with the '+' sign.")
+print('e.g. print("Hello" + "world")')
+print("New lines can be created with a backslash and n.")
+
+#input function
+# input("what is your name?\t")
+
+#program to print no. of characters in a user's name
+# print(len(input("what is your name?")))
+
+# variables: reverse the value of two variables
+# a = input("a: ")
+# b = input("b: ")
+#
+# tmp = a
+# a = b
+# b = tmp
+#
+# print("value of a:", a)
+# print("value of b:", b)
+
+#band name generator program
+# print("lets create a brand name... Lets go!!!!")
+# a = input("Enter your city that you grew up in:\n")
+# b = input("Name of your pet:\n")
+# print("your brand name:" + a + " " + b )
+
+
+
+
+
+
+
+
